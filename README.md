@@ -27,16 +27,21 @@ Each model is trained and compared for accuracy and performance.
 
 ##  Training Graphs
 Loss vs Epoch graph
+
 1.Custom CNN
+
 ![alt text](image.png)
 
 2.MobileNetV2
+
 ![alt text](image-1.png)
 
 3.EfficientNet
+
 ![alt text](image-2.png)
 
 4.ResNet18
+
 ![alt text](image-3.png)
 
 ##  Dataset
